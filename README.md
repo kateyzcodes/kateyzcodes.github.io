@@ -1,4 +1,4 @@
 # kateyzcodes.github.io
 Public websites
-My portfolio -> https://kateyzcodes.github.io/portfolio  
-Recipe website -> https://kateyzcodes.github.io/odin-recipes
+My personal website/portfolio -> [Personal Website/Portfolio] (https://kateyzcodes.github.io/portfolio)  
+Recipe website -> [Odin Recipes Website] (https://kateyzcodes.github.io/odin-recipes)
